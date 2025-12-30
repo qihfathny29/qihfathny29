@@ -78,14 +78,7 @@ Modern web-based library management system with intuitive interface and efficien
 [View Project →](https://github.com/qihfathny29/perpustakaandigital40)
 
 </td>
-<td width="50%">
 
-### 💡 More Projects
-Exploring the intersection of hardware and software through various IoT and web development experiments.
-
-[See All Repositories →](https://github.com/qihfathny29?tab=repositories)
-
-</td>
 </tr>
 </table>
 
